@@ -1,0 +1,63 @@
+2022-11-05 13:16:48,968  INFO [main] SaucedemoMavenproject:44 - Browser is opened
+2022-11-05 13:16:49,240  INFO [main] SaucedemoMavenproject:46 - Browser is maximized
+2022-11-05 13:16:53,014  INFO [main] SaucedemoMavenproject:48 - URL is opened
+2022-11-05 13:16:53,015  INFO [main] SaucedemoMavenproject:49 - Went on login page
+2022-11-05 13:16:59,034  INFO [main] SaucedemoMavenproject:26 - Apply validation for login
+2022-11-05 13:16:59,043  INFO [main] SaucedemoMavenproject:61 - End of program
+2022-11-05 13:16:59,043  INFO [main] SaucedemoMavenproject:62 - Browser is closed
+2022-11-05 13:17:16,329  INFO [main] SaucedemoMavenproject:44 - Browser is opened
+2022-11-05 13:17:16,561  INFO [main] SaucedemoMavenproject:46 - Browser is maximized
+2022-11-05 13:17:19,879  INFO [main] SaucedemoMavenproject:48 - URL is opened
+2022-11-05 13:17:19,879  INFO [main] SaucedemoMavenproject:49 - Went on login page
+2022-11-05 13:17:30,886  INFO [main] SaucedemoMavenproject:28 - Went on Loginpage after Logout
+2022-11-05 13:17:30,886  INFO [main] SaucedemoMavenproject:30 - Apply validation
+2022-11-05 13:17:30,903  INFO [main] SaucedemoMavenproject:61 - End of program
+2022-11-05 13:17:30,903  INFO [main] SaucedemoMavenproject:62 - Browser is closed
+2022-11-05 13:27:43,148  INFO [main] SaucedemoMavenproject:44 - Browser is opened
+2022-11-05 13:27:43,367  INFO [main] SaucedemoMavenproject:46 - Browser is maximized
+2022-11-05 13:27:46,763  INFO [main] SaucedemoMavenproject:48 - URL is opened
+2022-11-05 13:27:46,764  INFO [main] SaucedemoMavenproject:49 - Went on login page
+2022-11-05 13:27:46,885  INFO [main] SaucedemoMavenproject:53 - Username is entered.
+2022-11-05 13:27:46,961  INFO [main] SaucedemoMavenproject:55 - Password is entered
+2022-11-05 13:27:47,059  INFO [main] SaucedemoMavenproject:57 - Clicked on login button
+2022-11-05 13:27:47,059  INFO [main] SaucedemoMavenproject:58 - We entered on home page.
+2022-11-05 13:27:52,217  INFO [main] SaucedemoMavenproject:26 - Apply validation for login
+2022-11-05 13:27:52,227  INFO [main] SaucedemoMavenproject:65 - End of program
+2022-11-05 13:27:52,227  INFO [main] SaucedemoMavenproject:66 - Browser is closed
+2022-11-05 13:28:09,079  INFO [main] SaucedemoMavenproject:44 - Browser is opened
+2022-11-05 13:28:09,227  INFO [main] SaucedemoMavenproject:46 - Browser is maximized
+2022-11-05 13:28:13,164  INFO [main] SaucedemoMavenproject:48 - URL is opened
+2022-11-05 13:28:13,164  INFO [main] SaucedemoMavenproject:49 - Went on login page
+2022-11-05 13:28:13,266  INFO [main] SaucedemoMavenproject:53 - Username is entered.
+2022-11-05 13:28:13,346  INFO [main] SaucedemoMavenproject:55 - Password is entered
+2022-11-05 13:28:13,445  INFO [main] SaucedemoMavenproject:57 - Clicked on login button
+2022-11-05 13:28:13,445  INFO [main] SaucedemoMavenproject:58 - We entered on home page.
+2022-11-05 13:28:24,012  INFO [main] SaucedemoMavenproject:28 - Went on Loginpage after Logout
+2022-11-05 13:28:24,013  INFO [main] SaucedemoMavenproject:30 - Apply validation
+2022-11-05 13:28:24,020  INFO [main] SaucedemoMavenproject:65 - End of program
+2022-11-05 13:28:24,020  INFO [main] SaucedemoMavenproject:66 - Browser is closed
+2022-11-05 13:31:28,711  INFO [main] SaucedemoMavenproject:44 - Browser is opened
+2022-11-05 13:31:28,837  INFO [main] SaucedemoMavenproject:46 - Browser is maximized
+2022-11-05 13:31:32,442  INFO [main] SaucedemoMavenproject:48 - URL is opened
+2022-11-05 13:31:32,442  INFO [main] SaucedemoMavenproject:49 - Went on login page
+2022-11-05 13:31:32,599  INFO [main] SaucedemoMavenproject:53 - Username is entered.
+2022-11-05 13:31:32,694  INFO [main] SaucedemoMavenproject:55 - Password is entered
+2022-11-05 13:31:32,815  INFO [main] SaucedemoMavenproject:57 - Clicked on login button
+2022-11-05 13:31:32,815  INFO [main] SaucedemoMavenproject:58 - We entered on home page.
+2022-11-05 13:31:37,956  INFO [main] SaucedemoMavenproject:26 - Apply validation for login
+2022-11-05 13:31:37,966  INFO [main] SaucedemoMavenproject:65 - End of program
+2022-11-05 13:31:37,966  INFO [main] SaucedemoMavenproject:66 - Browser is closed
+2022-11-05 13:31:39,126  INFO [main] SaucedemoMavenproject:44 - Browser is opened
+2022-11-05 13:31:39,242  INFO [main] SaucedemoMavenproject:46 - Browser is maximized
+2022-11-05 13:31:41,159  INFO [main] SaucedemoMavenproject:48 - URL is opened
+2022-11-05 13:31:41,159  INFO [main] SaucedemoMavenproject:49 - Went on login page
+2022-11-05 13:31:41,274  INFO [main] SaucedemoMavenproject:53 - Username is entered.
+2022-11-05 13:31:41,374  INFO [main] SaucedemoMavenproject:55 - Password is entered
+2022-11-05 13:31:41,501  INFO [main] SaucedemoMavenproject:57 - Clicked on login button
+2022-11-05 13:31:41,501  INFO [main] SaucedemoMavenproject:58 - We entered on home page.
+2022-11-05 13:31:51,944  INFO [main] SaucedemoMavenproject:26 - Clicked on main menue
+2022-11-05 13:31:52,062  INFO [main] SaucedemoMavenproject:28 - Clicked on Logout Button
+2022-11-05 13:31:52,155  INFO [main] SaucedemoMavenproject:30 - Went on Loginpage after Logout
+2022-11-05 13:31:52,156  INFO [main] SaucedemoMavenproject:32 - Apply validation
+2022-11-05 13:31:52,177  INFO [main] SaucedemoMavenproject:65 - End of program
+2022-11-05 13:31:52,178  INFO [main] SaucedemoMavenproject:66 - Browser is closed
